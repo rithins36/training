@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\bin\Debug\net8.0\Requirement2.exe
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\bin\Debug\net8.0\Requirement2.deps.json
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\bin\Debug\net8.0\Requirement2.runtimeconfig.json
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\bin\Debug\net8.0\Requirement2.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\bin\Debug\net8.0\Requirement2.pdb
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\refint\Requirement2.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.pdb
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\Requirement2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement2\obj\Debug\net8.0\ref\Requirement2.dll

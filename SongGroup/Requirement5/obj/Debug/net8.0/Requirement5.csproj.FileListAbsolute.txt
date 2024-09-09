@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\bin\Debug\net8.0\Requirement5.exe
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\bin\Debug\net8.0\Requirement5.deps.json
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\bin\Debug\net8.0\Requirement5.runtimeconfig.json
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\bin\Debug\net8.0\Requirement5.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\bin\Debug\net8.0\Requirement5.pdb
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\refint\Requirement5.dll
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.pdb
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\Requirement5.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\csharp demo\SongGroup\Requirement5\obj\Debug\net8.0\ref\Requirement5.dll
